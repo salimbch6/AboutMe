@@ -3,7 +3,7 @@
 
 <!-- GIF animation -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMzbDFlZWM4MHhobnAyYTI4MTR6OXRpemMzeWxqZHZja2Fkb2sxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="400" alt="AI developer gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm41a3k3YzBucTEwMTZob3NqNW9xOW12MGlkd25kbDh4N3MxMXp4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="AI developer gif" />
 </p>
 
 <!-- Profile views -->
