@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salim Ibncheikh</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer Student</h3>
 <h3 align="center">Data & Ai Specialist</h3>
 
 
