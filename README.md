@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salim Ibncheikh</h1>
 <h3 align="center">A passionate Data & AI Developer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimbch6&label=Profile%20views&color=0e75b6&style=flat" alt="salimbch6" /> </p>
 
