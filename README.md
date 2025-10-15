@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salim Ibncheikh</h1>
-<h3 align="center">🚀 A Passionate Data & AI Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">Data & Ai Specialist</h3>
+
 
 <!-- GIF animation -->
 <p align="center">
